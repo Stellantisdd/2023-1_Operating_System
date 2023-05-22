@@ -50,7 +50,7 @@ Press any key to continue...
 
 - 왼쪽 아래에 wsl:ubuntu 라고 적혀있는 경우 이미 연결된 상태의 창을 보고 있으므로 "4-1 참조"
 
-!(https://canvas.knu.ac.kr/courses/20364/files/1196320/preview)
+![스크린샷 2023-03-16 오후 2.36.50.png](https://canvas.knu.ac.kr/courses/20364/files/1196320/preview)
 
 2. 왼쪽 목록에서 "Extensions" 클릭 후 wsl 검색, Microsoft가 배포하는 확장팩 설치
 
